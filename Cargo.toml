@@ -1,5 +1,5 @@
 [package]
-name = "xbox"
+name = "controller-mapper"
 version = "0.1.0"
 authors = ["PumpedSardines <fritiof@rusck.se>"]
 edition = "2018"
